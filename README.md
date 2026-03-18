@@ -19,3 +19,18 @@ O dashboard foi dividido em três visões:
 ## 🛠️ Ferramentas
 - Power BI  
 - DAX  
+
+## 📷 Visualizações
+
+### 🧠 Visão Executiva
+![Visão Executiva](Executivo.png)
+
+### 💰 Visão Financeira
+![Financeiro](Financeiro1.png)
+
+![Financeiro](Financeiro2.png)
+
+### 📈 Visão Comercial
+![Comercial](Comercial1.png)
+
+![Comercial](Comercial2.png)
